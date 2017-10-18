@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadrn/leetcode-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadrn/leetcode-/issues"
+  },
+  "homepage": "https://github.com/wadrn/leetcode-#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.6.3"
+  }
+}
