@@ -4428,6 +4428,7 @@ Tag:two-pointers
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:depth-first-search
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | | | Medium | 30.3% | MathBit Manipulation |
@@ -5059,6 +5060,7 @@ Tag:depth-first-search
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:array
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | | | Easy | 44.3% | ArrayMathBit Manipulation |
@@ -5690,6 +5692,7 @@ Tag:array
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:dynamic-programming
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | | | Medium | 36.2% | Tree |
