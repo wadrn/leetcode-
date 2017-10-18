@@ -1,10 +1,11 @@
-#Leetcode Solutions with JavaScript  or C++
+# Leetcode Solutions with JavaScript  or C++
 
-Update time: Wed Oct 18 2017 19:49:19 GMT+0800 (CST)
+## Update time: Wed Oct 18 2017 19:49:19 GMT+0800 (CST)
 
 I have solved **0 / 0** problems
 
 Tag:hash-table
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | | | Medium | 36.9% | TreeDepth-first Search |
