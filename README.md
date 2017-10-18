@@ -637,6 +637,7 @@ Tag:hash-table
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:design
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | | | Medium | 44.6% | Binary SearchDynamic ProgrammingGreedy |
@@ -1268,6 +1269,7 @@ Tag:design
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:binary-search
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | | | Medium | 38.6% | Binary SearchDynamic Programming |
@@ -1899,6 +1901,7 @@ Tag:binary-search
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:backtracking
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | | | Medium | 36.9% | TreeDepth-first Search |
@@ -2530,6 +2533,7 @@ Tag:backtracking
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:math
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | | | Medium | 29.1% | DesignTrie |
@@ -3792,6 +3796,7 @@ Tag:tree
 | 711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | | | Hard | 26.0% | Hash TableDepth-first Search |
 
 Tag:two-pointers
+
 | ID | Title | Source Code | Explaination | Difficulty | Acceptance | Tags |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 285 | [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) | | | Medium | 36.2% | Tree |
